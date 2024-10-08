@@ -1,0 +1,29 @@
+1 2 2 4 False True
+3 4 6 8 False True
+0 1 0 5 False True
+5 5 1 1 False True
+1 3 2 6 False True
+5 4 1 4 False False
+10 3 3 3 False False
+9 2 4 1 False False
+5 2 2 2 False False
+7 3 2 3 False False
+8 3 7 3 False False
+11 10 1 2 False False
+20 15 5 15 False False
+6 1 5 1 False False
+9 4 7 4 False False
+1 3 1 2 True False 
+2 5 3 5 True False 
+3 7 4 7 True False
+5 8 7 8 True False
+9 20 11 20 True False
+
+//Good test cases
+first denominator is zero
+second denominator is zero
+both den zero
+
+one den and one numerator is zero
+
+4 nums //less than   //equal to
